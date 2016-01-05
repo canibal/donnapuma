@@ -1,0 +1,118 @@
+
+nav {
+  background-color:#00D5D5;
+  padding:1em;
+}
+#logo {
+  float:left;
+  clear:both;
+}
+.menu {
+  list-style-type:none;
+  margin:0;
+  padding:1.5em 0;
+}
+.bar > li {
+  text-align:right;
+  display:inline;
+  margin:0;
+  padding:0;
+}
+.bar > li > a {
+  font-family:'Gilda Display', serif;
+  text-align:right;
+  vertical-align:top;
+  overflow:hidden;
+  font-size:1.15em;
+  margin-bottom:auto;
+  padding:10px;
+  text-decoration:none;
+  text-shadow:#aaa 0 0 1px 1px;
+  color:#068f8f
+}
+.bar > li > a:hover {
+  background-color:#ef0069;
+}
+#social-nav img {
+  max-width:2%;
+}
+header {
+  clear:both;
+  top:;
+  margin:0;
+  color:#dab594;
+  background-image: url(../images/slide_1.png);
+  background-position: center center;
+  background-attachment:fixed;
+  background-size:cover;
+  text-align:center;
+  text-shadow:#000 2px 1px;
+}
+#puma {
+  font-size:2em;
+}
+h1 {
+  font-family:'Miss Fajardose', cursive;
+}
+h2 {
+  font-family:'Great Vibes', cursive;
+}
+h3 {
+  font-family:'Cinzel Decorative', serif;
+}
+h4 {
+  font-family:'Lovers Quarrel', cursive;
+  font-size:2em;
+}
+.section-headers {
+  clear:both;
+  text-align:center;
+  margin:1em 0;
+}
+#main {
+  font-family:'Cinzel Decorative', serif;
+  font-variant-caps: titling-caps;
+}
+.content {
+  font-family:'Rouge Script', cursive;
+  font-size:1.6em;
+  float:left;
+  max-width:35%;
+  display:inline-block;
+  text-align:center;
+  padding-left: 3em;
+  margin:auto;
+}
+.photo {
+  float:right;
+  max-width:35%;
+  text-align:center;
+  margin:auto;
+  padding-right:3em;
+}
+#dpuma {
+  height:15em;
+}
+.caption {
+  font-family:'Josefin Sans', sans-serif;
+  font-weight:lighter;
+  text-align:center;
+  font-size:1em;
+  max-width:50%;
+  display:inline-block;
+}
+.crclr {
+  border-radius:50%;
+}
+#ww-widget-reviews {
+  clear:both;
+}
+.social {
+  list-style-type:none;
+}
+.social > li {
+  display:inline;
+}
+.social li img {
+  max-width:4%;
+}
